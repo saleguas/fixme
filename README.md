@@ -58,7 +58,7 @@ python3 CODE.py
 
 # License 
 
-[INSERT WORD HERE DONT FORGET](https://www.github.com/lin8x/fixme/license)
+[alt text](https://www.github.com/lin8x/fixme/license)
 
 # Donate :mag:
 
