@@ -11,8 +11,6 @@ This type of thing can also be said for code, as code which isn't commented or s
 
 I designed this to help newcomers to understand how certain files should look like by showing what it ***SHOULDN'T*** look like.
 
-You may fix everything under the line below and the files of CODE.py
-
 ### Some resources that might help you:
 
 Explaining READMEs - https://www.makeareadme.com
@@ -30,6 +28,9 @@ List of Emojis for README.md files - https://github.com/onmyway133/emoji
 3. Commit your changes for me to review and add your github username on CONTRIBUTERS.md
 4. Try doing this for other projects. Many still have grammer mistakes or weird setups.
 
+```bash
+- You may fix everything under the line below and the files of CODE.py
+```
 ---------------------------------
 
 ## Zarp
