@@ -28,7 +28,15 @@ the program that automatically check system inførmation! The program was mede t
 2. OS Information
 3. System / Platform Information
 
-# Screenshot of tool: 
+# How to Install
+
+To Install, please enter the directory through terminal and type:
+```
+chmod +z CODE.py
+python3 CODE.py
+```
+
+# Screenshot of tool
 
 ![alt text](http://url/to/img.png)
 
