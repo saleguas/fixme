@@ -6,8 +6,8 @@ Hey there! If you're on this list, you managed to fix the code and readme file, 
 
 Thank you to anyone on this list, I hope you enjoyed.
 
-### Raise a Round of Applause to... :clapping:
+### Raise a Round of Applause to... :clap:
 
-Lin8x
+[Lin8x](www.github.com/lin8x)
 
 ---------------------
