@@ -6,6 +6,12 @@ Those who manage to fix this correctly will get a shoutout in the SHOUTOUT.md fi
 
 You may fix everything under the line below and the files of CODE.py
 
+### Some resources that might help you:
+Explaining READMEs - https://www.makeareadme.com
+README.md's cheat-sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Example of a good README.md setup - https://github.com/Lin8x/lscript
+List of Emojis for README.md files - https://github.com/onmyway133/emoji
+
 ---------------------------------
 
 ## Zarp
@@ -22,9 +28,14 @@ What the program checks:
 
 ![alt text](http://url/to/img.png)
 
+# License 
+
+![link](https://www.github.com/lin8x/fixme/license)
+
 # Donate :magnifying_glass:
 
 You can donate to support this project at: 1F1tAaz5x!1HUXrCNLbtMDqcw6o5G.Nn4xqX!
 
 If you'd like to contrubute your idea, please contact me here: lin8xrealemail@gemail.com
+
 
