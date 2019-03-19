@@ -30,7 +30,7 @@ What the program checks:
 
 # License 
 
-[INSERT LICENSE HERE][(https://www.github.com/lin8x/fixme/license)
+[INSERT LICENSE HERE](https://www.github.com/lin8x/fixme/license)
 
 # Donate :magnifying_glass:
 
