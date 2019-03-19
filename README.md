@@ -7,9 +7,13 @@ Those who manage to fix this correctly will get a shoutout in the SHOUTOUT.md fi
 You may fix everything under the line below and the files of CODE.py
 
 ### Some resources that might help you:
+
 Explaining READMEs - https://www.makeareadme.com
+
 README.md's cheat-sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Example of a good README.md setup - https://github.com/Lin8x/lscript
+
 List of Emojis for README.md files - https://github.com/onmyway133/emoji
 
 ---------------------------------
@@ -19,8 +23,8 @@ List of Emojis for README.md files - https://github.com/onmyway133/emoji
 
 the program that automatically check system inførmation! The program was mede to help those who want their System Informartion straight out of the box!
 
-What the program checks:
-1. Time of System / Area
+### What the program checks:
+-1. Time of System / Area
 2. OS Information
 3. System / Platform Information
 
