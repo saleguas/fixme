@@ -1,5 +1,5 @@
 ---------------------------------
-# Hey there!
+# Hey there! Read me first!
 
 Please know that this is a practice repository for people to fork, edit, and fix.
 Those who manage to fix this correctly will get a shoutout in the SHOUTOUT.md file.
