@@ -12,6 +12,6 @@ Thank you to anyone on this list, I hope you enjoyed.
 
 [Lin8x](www.github.com/lin8x) - Made this Repository
 
-Hoping to add more people to this list soon!
+Hoping to add more people to this list!
 
 ---------------------
