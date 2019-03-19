@@ -30,6 +30,7 @@ import os
 import sys
 import platform
 import time
+import datetime
 
 
 #the function uses the "os" module to get a result of either, linux1, linux2, darwin, or win32
@@ -42,11 +43,11 @@ def get_platform():
     }
 
 
-print"Welcome! Here's your system informatio! /n"
+print("Welcome! Here's your system information! /n")
 
-print("Your Local Time Zone: " + time.time() #Local time zone
+print("Your Local Time Zone: " + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))#Local time zone
 
-print"your platform         " + get_platform()
+print("your platform         " + str(get_platform()))
 
 print("Release Version       " + platform.release()) # gives the platform's machine
 
