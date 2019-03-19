@@ -4,6 +4,13 @@
 Please know that this is a practice repository for people to fork, edit, and fix.
 Those who manage to fix this correctly will get a shoutout in the SHOUTOUT.md file.
 
+I made this with the idea behind the idea of "To get a project to be noticed, it has to look good." 
+Most projects go overlooked due to their sloppy format of their README's, which is very upsetting and can be a huge problem for many newcomers to github.
+
+This type of thing can also be said for code, as code which isn't commented or sloppy will be very difficult to read through for someone else. This can discourage people wanting to improve your code, fix it, or edit it.
+
+I designed this to help newcomers to understand how certain files should look like by showing what it ***SHOULDN'T*** look like.
+
 You may fix everything under the line below and the files of CODE.py
 
 ### Some resources that might help you:
@@ -15,6 +22,13 @@ README.md's cheat-sheet - https://github.com/adam-p/markdown-here/wiki/Markdown-
 Example of a good README.md setup - https://github.com/Lin8x/lscript
 
 List of Emojis for README.md files - https://github.com/onmyway133/emoji
+
+### Objectives:
+
+1. Fix the README below
+2. Fix the CODE.py file
+3. Commit your changes for me to review and add your github username on CONTRIBUTERS.md
+4. Try doing this for other projects. Many still have grammer mistakes or weird setups.
 
 ---------------------------------
 
