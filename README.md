@@ -42,7 +42,7 @@ the program that automatically check system inførmation! The program was mede t
 ### What the program checks:
 1. Time of System / Area
 2. OS Information
--3. System / Platform Information
+3. System / Platform Information
 
 # How to Install
 
