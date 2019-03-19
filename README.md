@@ -28,6 +28,7 @@ List of Emojis for README.md files - https://github.com/onmyway133/emoji
 3. Commit your changes for me to review and add your github username on CONTRIBUTERS.md
 4. Try doing this for other projects. Many still have grammer mistakes or weird setups.
 
+---------------------------------
 ```diff
 - You may fix everything under the line below and the files of CODE.py
 ```
