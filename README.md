@@ -54,7 +54,7 @@ python3 CODE.py
 
 # Screenshot of tool
 
-![alt text](http://url/to/img.png)
+(https://github.com/saleguas/fixme/blob/master/EXAMPLE.PNG)
 
 # License 
 
