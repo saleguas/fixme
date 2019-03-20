@@ -37,7 +37,7 @@ List of Emojis for README.md files - https://github.com/onmyway133/emoji
 ## Zarp
 :moneybag:
 
-the program that automatically check system information! The program was mede to help those who want their System Informartion straight out of the box!
+the program that automatically check system information! The program was made to help those who want their System Informartion straight out of the box!
 
 ### What the program checks:
 1. Time of System / Area
