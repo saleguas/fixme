@@ -33,6 +33,7 @@ List of Emojis for README.md files - https://github.com/onmyway133/emoji
 - You may fix everything under the line below and the files of CODE.py
 ```
 ---------------------------------
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/saleguas/fixme/blob/master/LICENSE)
 
 ## Zarp
 :moneybag:
@@ -56,10 +57,6 @@ python3 CODE.py
 
 ![alt text](https://github.com/saleguas/fixme/blob/master/EXAMPLE.PNG)
 
-# License 
-
- [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/saleguas/fixme/blob/master/LICENSE)
- 
 # Donate :mag:
 
 You can donate to support this project at: 1F1tAaz5x!1HUXrCNLbtMDqcw6o5G.Nn4xqX!
