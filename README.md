@@ -54,11 +54,11 @@ python3 CODE.py
 
 # Screenshot of tool
 
-(https://github.com/saleguas/fixme/blob/master/EXAMPLE.PNG)
+![alt text](https://github.com/saleguas/fixme/blob/master/EXAMPLE.PNG)
 
 # License 
 
-[alt text](https://www.github.com/lin8x/fixme/license)
+![alt text](https://www.github.com/lin8x/fixme/license)
 
 # Donate :mag:
 
