@@ -58,8 +58,8 @@ python3 CODE.py
 
 # License 
 
-![alt text](https://www.github.com/lin8x/fixme/license)
-
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+ 
 # Donate :mag:
 
 You can donate to support this project at: 1F1tAaz5x!1HUXrCNLbtMDqcw6o5G.Nn4xqX!
