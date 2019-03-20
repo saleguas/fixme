@@ -43,7 +43,7 @@ def get_platform():
     }
 
 
-print("Welcome! Here's your system information! /n")
+print("Welcome! Here's your system information! \n")
 
 print("Your Local Time Zone: " + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))#Local time zone
 
